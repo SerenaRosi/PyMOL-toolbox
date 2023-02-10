@@ -1,0 +1,12 @@
+
+# To add in python script (with 'from pymol import cmd') or in '.pymolrc' (File -> Edit pymolrc)
+
+cmd.set("cartoon_fancy_helices", 1)
+cmd.set("cartoon_highlight_color", "grey50")
+cmd.set("sphere_scale", 0.15)
+cmd.set("orthoscopic", "on")
+cmd.set("cartoon_dumbbell_length", 1.5)
+cmd.set("cartoon_dumbbell_width", 0.4)
+cmd.set("cartoon_dumbbell_radius", 0.3)
+cmd.set("cartoon_ring_mode", 1)
+cmd.set("cartoon_ring_transparency", 0.5)
