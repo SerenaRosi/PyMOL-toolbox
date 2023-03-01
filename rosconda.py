@@ -1,4 +1,4 @@
-# Copyright 2022 by Serena Rosignoli. All rights reserved.
+# Copyright 2023 by Serena Rosignoli. All rights reserved.
 
 import io as io
 import sys, shlex
