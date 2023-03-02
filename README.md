@@ -2,4 +2,4 @@
 
 ## Some scripts you may find useful for your journey with PyMOL
 
-- [visualization_setup](https://SerenaRosi.github.io/PyMOL-toolbox/rosconda.py)
+- [rosconda.py] - Overcome the [known PyMOL issue](https://pymol.org/dokuwiki/doku.php?id=media:new25) *'CommandNotFoundError: No command 'conda conda'.*
