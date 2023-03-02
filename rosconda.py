@@ -1,4 +1,8 @@
 # Copyright 2023 by Serena Rosignoli. All rights reserved.
+### HOW-TO ###
+# - Run the script in PyMOL (Open PyMOL -> File -> Run Script...)
+# - Use the PyMOL interpreter to run the desired conda function by making use of 'rosconda' command
+# - Write the conda function WITHOUT specifying 'conda' at the begginning of the line; e.g. to run 'conda list' just type 'rosconda list'
 
 import io as io
 import sys, shlex
