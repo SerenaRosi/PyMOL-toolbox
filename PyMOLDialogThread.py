@@ -1,7 +1,7 @@
 # Serena Rosignoli, 2023
 
 ################################################################
-#### How to run a Thread process from a Dialog in a PyMOL plugin.
+#### How to run a process in thread from a Dialog in a PyMOL plugin.
 ################################################################
 
 # !! THIS CODE:
