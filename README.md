@@ -2,9 +2,9 @@
 
 
 ## 1 - Threading processes in PyMOL plugins
-Download ZIP here: [**pymol2-demo.plugin.threads.zip**](https://github.com/SerenaRosi/PyMOL-toolbox/blob/main/pymol2-demo-plugin-threads.zip)
-
-Install with PyMOL's plugin manager *(Plugin > Plugin Manger > Install New Plugin > Install from local file)*
+**Download** ZIP here: [**pymol2-demo.plugin.threads.zip**](https://github.com/SerenaRosi/PyMOL-toolbox/blob/main/pymol2-demo-plugin-threads.zip) <br>
+**Install** with PyMOL's plugin manager *(Plugin > Plugin Manger > Install New Plugin > Install from local file)* <br>
+**Learn** how to integrate PLUGINS + DIALOGS + THREADS with PyQt5 in PyMOL
 
 *Adpated from [pymol2-demo-plugin](https://github.com/Pymol-Scripts/pymol2-demo-plugin/archive/master.zip)*
 
