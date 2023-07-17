@@ -2,7 +2,7 @@
 
 
 ## 1 - Threading processes in PyMOL plugins
-Download ZIP here: [**pymol2-demo.plugin.threads.zip**]()
+Download ZIP here: [**pymol2-demo.plugin.threads.zip**](https://github.com/SerenaRosi/PyMOL-toolbox/blob/main/pymol2-demo-plugin-threads.zip)
 
 Install with PyMOL's plugin manager *(Plugin > Plugin Manger > Install New Plugin > Install from local file)*
 
